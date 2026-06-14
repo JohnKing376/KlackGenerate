@@ -1,6 +1,6 @@
 {
   "name": "klack-generate-monorepo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scaffold a production-grade full-stack TypeScript monorepo with Bun, Turborepo, NestJS, Next.js, and Expo",
   "type": "module",
   "main": "./dist/cli.js",
